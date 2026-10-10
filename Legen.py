@@ -6,7 +6,7 @@ from discord.ext import commands
 # FRESH BYPASS BOT - CONFIG
 # ==================================================
 
-TOKEN = "MTQxMDk1MzI0MzUyOTQ0NTQ2Nw.Gdol5D.DANsZ55OI6xEJ20tq0qGINysxokCKc3ghjqNzU"
+TOKEN = "MTQxMDk1MzI0MzUyOTQ0NTQ2Nw.Gbf58r.EsAGoaDBcctNPbjrTDe3D5b34XgpaNbIXcjb74"
 PREFIX = "!"
 
 # Βάλε τα δικά σου URLs
