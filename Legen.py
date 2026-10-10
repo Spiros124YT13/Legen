@@ -3,10 +3,10 @@ import discord
 from discord.ext import commands
 
 # ==================================================
-# FRESH BYPASS BOT - CONFIG
+# FRESH BOT - CONFIG
 # ==================================================
 
-TOKEN = "MTQxMDk1MzI0MzUyOTQ0NTQ2Nw.Gbf58r.EsAGoaDBcctNPbjrTDe3D5b34XgpaNbIXcjb74"
+TOKEN = "MTQxMDk1MzI0MzUyOTQ0NTQ2Nw.GD2EyO.8ebVTHksRtTfpgdnSDGUeCn36cWipL1UAc1h6w"
 PREFIX = "!"
 
 # Βάλε τα δικά σου URLs
